@@ -1,8 +1,8 @@
 '''
-  Lesson: Math Library
-  Author: Eric Fang
-  Date Created: October 2nd, 2024
-  Date Last Modified: October 2nd, 2024
+   Lesson: Math Library
+   Author: Eric Fang
+   Date Created: October 2nd, 2024
+   Date Last Modified: October 2nd, 2024
 '''
 
 import math
